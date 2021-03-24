@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chebbadounia/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/chebbadounia/static/js/main.ad6a9159.chunk.js",
+    "main.js.map": "/chebbadounia/static/js/main.ad6a9159.chunk.js.map",
+    "runtime-main.js": "/chebbadounia/static/js/runtime-main.89f0bd61.js",
+    "runtime-main.js.map": "/chebbadounia/static/js/runtime-main.89f0bd61.js.map",
+    "static/js/2.08972b5b.chunk.js": "/chebbadounia/static/js/2.08972b5b.chunk.js",
+    "static/js/2.08972b5b.chunk.js.map": "/chebbadounia/static/js/2.08972b5b.chunk.js.map",
+    "static/js/3.6500ec64.chunk.js": "/chebbadounia/static/js/3.6500ec64.chunk.js",
+    "static/js/3.6500ec64.chunk.js.map": "/chebbadounia/static/js/3.6500ec64.chunk.js.map",
+    "index.html": "/chebbadounia/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/chebbadounia/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.08972b5b.chunk.js.LICENSE.txt": "/chebbadounia/static/js/2.08972b5b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chebbadounia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f0bd61.js",
+    "static/js/2.08972b5b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ad6a9159.chunk.js"
+  ]
+}
